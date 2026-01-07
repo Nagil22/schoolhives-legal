@@ -1,6 +1,6 @@
 2. TERMS OF SERVICE
 SCHOOL HIVE
-Last updated: 26 December 2025
+Last updated: 7 January 2026
 
 2.1 Acceptance of Terms
 By accessing or using SCHOOL HIVE, you agree to be bound by these Terms of Service.
