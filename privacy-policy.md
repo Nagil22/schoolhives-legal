@@ -2,6 +2,8 @@
 1. PRIVACY POLICY
 SCHOOL HIVE
 Last updated: 7 January 2026
+
+
 1.1 Introduction
 SCHOOL HIVE is an education-focused platform operated by RIXIN SOFTWARE TECHNOLOGY COMPANY LIMITED (“we”, “our”, “us”). This Privacy Policy explains how we collect, use, disclose, and protect personal information when users access the SCHOOL HIVE mobile application and related services.
 By using SCHOOL HIVE, you agree to the practices described in this policy.
